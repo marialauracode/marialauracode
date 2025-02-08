@@ -1,7 +1,7 @@
 ## 👩🏻‍💻 Maria Laura Castro
-**`Desenvolvedora Front-end`**
+**`Desenvolvedora de Software`**
 
-Me chamo Maria Laura Castro, tenho 19 anos e sou da cidade de Pindamonhangaba. Concluí o ensino médio integrado ao curso técnico em Informática para Internet pela ETEC e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Taubaté. Sou apaixonada por tecnologia e estou sempre em busca de aprendizado. Ainda estou em formação e aprendendo novas linguagens de programação, compartilhando meu conhecimento no meu perfil do LinkedIn e através dos meus repositórios no GitHub.
+Me chamo Maria Laura Castro, tenho 19 anos e sou da cidade de Pindamonhangaba. Concluí o ensino médio integrado ao curso técnico em Informática para Internet pela ETEC e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Taubaté. Sou apaixonada por tecnologia e estou sempre em busca de aprendizado. Ainda estou em formação e aprendendo novas linguagens de programação e frameworks, compartilhando meu conhecimento no meu perfil do LinkedIn e através dos meus repositórios no GitHub.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -70,20 +70,15 @@ Me chamo Maria Laura Castro, tenho 19 anos e sou da cidade de Pindamonhangaba. C
 
 ### 📊 Estatísticas
 
-<p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=marialauracode&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialauracode&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialauracode&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
+</div>
