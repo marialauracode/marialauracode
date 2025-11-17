@@ -1,7 +1,7 @@
 ## 👩🏻‍💻 Maria Laura Castro
 **`Desenvolvedora de Software`**
 
-Me chamo Maria Laura Castro, tenho 20 anos e sou da cidade de Pindamonhangaba. Concluí o ensino médio integrado ao curso técnico em Informática para Internet pela ETEC e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Taubaté. Sou apaixonada por tecnologia e estou sempre em busca de aprendizado. Ainda estou em formação e aprendendo novas linguagens de programação e frameworks, compartilhando meu conhecimento no meu perfil do LinkedIn e através dos meus repositórios no GitHub.
+Me chamo Maria Laura Castro, tenho 20 anos e sou da cidade de Pindamonhangaba. Concluí o ensino médio integrado ao curso técnico em Informática para Internet pela ETEC e, atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC Taubaté. Sou apaixonada por tecnologia, sempre em busca de aprendizado, explorando novas linguagens, frameworks e conceitos da área. Além do Desenvolvimento, venho me interessando por Pesquisa em Tecnologia e iniciando minha jornada como freelancer. Aqui no GitHub e também no Linkedin, compartilho meus estudos, projetos e evolução constante.
 
 ### 🤖 Linguagens e Tecnologias
 
