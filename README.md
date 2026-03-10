@@ -1,12 +1,8 @@
 ## 👩🏻‍💻 Maria Laura Costa
-**`Desenvolvedora de Software`**
+**`Analista de Sistemas`**
 
-Olá! Me chamo Maria Laura Costa, sou de Pindamonhangaba/SP e concluí o ensino médio integrado ao curso técnico em Informática para Internet pela ETEC. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC Taubaté.
+Olá! Me chamo Maria Laura Costa, sou de Pindamonhangaba/SP, formada em Informática para Internet pela ETEC e atualmente estudante de Análise e Desenvolvimento de Sistemas na FATEC Taubaté.
 
-Sou apaixonada por tecnologia e meu foco é direcionado ao Desenvolvimento Web, com estudos em back-end com Java e front-end utilizando WordPress, Figma e JavaScript para a criação de interfaces e sites. Atualmente, estou me preparando para iniciar minha jornada como freelancer, e aqui no GitHub e Linkedin compartilho meus projetos, estudos e minha evolução contínua na área de TI.
+Tenho interesse em Desenvolvimento Web, onde estudo a linguagem Java para o back-end e também desenvolvo sites com WordPress para a criação de interfaces e páginas web. Também possuo noções de JavaScript, linguagem que pretendo aprofundar para evoluir cada vez mais no desenvolvimento em código no front-end.
 
-
-
-
-
-
+Atualmente, estou me preparando para iniciar minha jornada como freelancer e compartilho aqui no GitHub e no LinkedIn meus projetos, estudos e minha evolução contínua na área de Tecnologia da Informação.
